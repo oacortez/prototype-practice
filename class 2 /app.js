@@ -4,6 +4,6 @@ const server = http.createServer((req,res) => {
     res.write("yerrrr its me ")
     res.end();
 
-})
+});
 
 server.listen(3000);
