@@ -1,0 +1,22 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "Prototype",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oacortez/prototype-practice.git"
+  },
+  "author": "Oscar C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oacortez/prototype-practice/issues"
+  },
+  "homepage": "https://github.com/oacortez/prototype-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
